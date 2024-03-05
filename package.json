@@ -1,0 +1,29 @@
+{
+  "name": "goeter",
+  "version": "1.0.0",
+  "description": "A simple Markdown parser package.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinDin19000/goeter.git"
+  },
+  "keywords": [
+    "markdown",
+    "parser"
+  ],
+  "author": "vinDin19000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinDin19000/goeter/issues"
+  },
+  "homepage": "https://github.com/vinDin19000/goeter#readme",
+  "dependencies": {
+    "markdown-it": "^12.0.4"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
